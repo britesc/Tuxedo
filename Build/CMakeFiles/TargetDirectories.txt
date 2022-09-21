@@ -1,0 +1,3 @@
+/home/install/Projects/VSCode/Raspberry/Tuxedo/Build/CMakeFiles/Tuxedo.dir
+/home/install/Projects/VSCode/Raspberry/Tuxedo/Build/CMakeFiles/edit_cache.dir
+/home/install/Projects/VSCode/Raspberry/Tuxedo/Build/CMakeFiles/rebuild_cache.dir
